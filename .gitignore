@@ -1,1 +1,9 @@
+# Données volumineuses
+data/
+outputs/
+models/
+__pycache__/
+*.pyc
+.env
+.venv/
 
